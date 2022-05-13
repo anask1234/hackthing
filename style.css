@@ -1,0 +1,10 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-image:url('bofa.jpg');
+  background-repeat: no-repeat;
+background-attachment: fixed;
+  background-size: 100% 100%;
+
+}
+
